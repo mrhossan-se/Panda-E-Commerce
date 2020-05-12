@@ -1,0 +1,7 @@
+echo "# Panda-E-Commerce" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mrhossan1988/Panda-E-Commerce.git
+git push -u origin master
+                
